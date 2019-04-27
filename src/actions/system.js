@@ -1,0 +1,1 @@
+export const UPDATE_SYSTEM = 'UPDATE_SYSTEM'
